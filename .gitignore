@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+npm-debug.log*
+
+# Optional: Ignore build or output directories (if applicable)
+dist/
+build/
+
+# Optional: Ignore Vercel/Render specific files (if not needed)
+.vercel/
+.render/
